@@ -6,7 +6,11 @@ export default defineConfig({
   },
   routes: [
     { path: '/', component: '@/pages/index' },
+    {
+      path: '/fix-keyboard-whitespace',
+      component: '@/pages/fix-keyboard-whitespace/index',
+    },
   ],
   fastRefresh: {},
-  mfsu: {}
+  mfsu: {},
 });

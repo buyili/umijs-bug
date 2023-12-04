@@ -1,5 +1,5 @@
 import styles from './index.less';
-import {Button} from 'react-weui'
+import { Button } from 'react-weui';
 
 export default function IndexPage() {
   return (
