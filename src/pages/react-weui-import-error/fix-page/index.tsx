@@ -1,4 +1,5 @@
 import styles from './index.less';
+// @ts-ignore
 import ReactWeui from 'react-weui';
 const { Button } = ReactWeui;
 
